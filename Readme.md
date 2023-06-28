@@ -1,6 +1,6 @@
 # Uso de Contenedores de Azure
 
-Una vez creada la cuenta de almacenamiento, se puede crear un contenedor dentro de ella desde la sección ``` Almacenamiento de datos > Contenedores``` del recurso.
+Una vez creada la cuenta de almacenamiento, se puede crear un contenedor dentro de ella desde la sección **Almacenamiento de datos** > **Contenedores** del recurso.
 
 ## Crear contenedor
 En la sección **```+```Contenedor** creamos un contenedor con un nombre y un nivel de acceso ```Contenedor``` lo que permitirá almacenar datos dentro de él y que cualquiera pueda ver los datos que se almacenen dentro de él.
